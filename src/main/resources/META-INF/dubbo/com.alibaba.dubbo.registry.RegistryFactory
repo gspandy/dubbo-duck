@@ -1,0 +1,1 @@
+multicast-duck=com.qunar.flight.dubbo.duck.register.multicast.MulticastDuckRegisterFactory
